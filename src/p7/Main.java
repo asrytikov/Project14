@@ -1,2 +1,9 @@
-package p7;public class Main {
+package p7;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+    }
+
 }
